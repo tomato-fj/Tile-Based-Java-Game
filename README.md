@@ -1,6 +1,3 @@
-# Tile-Based-Java-Game
-
-
 
 # 2D Procedural Tile-Based Adventure Game (CS 61B Project 3)
 
