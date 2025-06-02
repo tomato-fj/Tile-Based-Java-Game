@@ -21,18 +21,7 @@ The game features:
 - **File I/O**: Save and load game state with deterministic replays
 - **Graphics**: Built on top of a custom tile engine and `StdDraw` UI toolkit
 
-## 📁 Directory Structure
 
-```
-/core
-├── Main.java         # Entry point
-├── Game.java         # Main game logic
-├── HUD.java          # Heads-up display
-├── Spirit.java       # AI movement and behavior
-├── Room.java         # Room generation
-├── Position.java     # Coordinate representation
-├── InitialScreen.java# Animated start screen
-```
 
 ## 🛠️ Tech Stack
 
